@@ -1,0 +1,10 @@
+Acknowledgements and Credits
+
+Contributors:
+- Jasper Sylvestre: Sole contributor to notebook.
+
+Resources:
+- Pandas: Used for data frame manipulation, computation, and importing.
+- NumPy, SciPy, and statmodels: Used for various statistical computations.
+- Matplotlib and Seaborn: Used for data visualization.
+- Kaggle: Data set was provided by Farshid Bahrami on Kaggle
