@@ -1,0 +1,13 @@
+Acknowledgements and Credits
+
+Contributors:
+- Jasper Sylvestre: Sole contributor to notebook.
+
+Resources:
+- PyTorch: Deep learning framework useful for modeling here.
+- NumPy and Pandas: These are useful libraries for dealing with arrays and dataframes respectively.
+- Matplotlib and Seaborn: These are useful libraries for plotting.
+- spaCy: This is a useful library for natural language processing.
+- scikit-learn: A very useful library for evaluating machine learning models and splitting the data.
+- tqdm: Useful for making a progress bar.
+- Kaggle: Data sets provided by Addison Howard, devrishi, Phil Culliton, and Yufeng Guo. Inspired by code from Kaggle user @OmarioVIC.
