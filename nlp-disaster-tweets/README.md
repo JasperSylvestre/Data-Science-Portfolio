@@ -5,3 +5,5 @@ I am Jasper Sylvestre, an NCSU alumni with a B.S. in Statistics and a Minor in M
 
 ## Project: NLP Disaster Tweets
 This Jupyter notebook showcases NLP and modeling BiLSTM architecture using the data available on __[Kaggle](https://www.kaggle.com/competitions/nlp-getting-started/data)__ and is in the data folder. For detailed insights through of the data preprocessing and modeling process, refer to the notebooks folder. For visualizations, refer to the image folder.
+
+The final submission CSV file may be slightly influenced by randomness when running the notebook on your own machine, but using  the current saved file in this repository will yield an F1 score of 0.79037. Significantly improved results can be achieved to get a score of 80 to 85%, especially when employing transfer models like BERT and Gemma.
