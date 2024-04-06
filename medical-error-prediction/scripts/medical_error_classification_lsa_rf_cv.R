@@ -154,7 +154,7 @@ one_tailed_test <- t.test(rf_lsa_cv, rf_cv, paired = TRUE, alternative = "greate
 result_data <- data.frame(
   method = c("lsa_cv", "cv", "one_tailed_test"),
   lower_bound = c(result_lsa_cv$conf.int[1], result_cv$conf.int[1], one_tailed_test$conf.int[1]),
-  upper_bound = c(result_cv$conf.int[1], one_tailed_test$conf.int[2], one_tailed_test$conf.int[2]),
+  upper_bound = c(result_lsa_cv$conf.int[2], result_cv$conf.int[2], one_tailed_test$conf.int[2]),
   p_value = c(result_lsa_cv$p.value, result_cv$p.value, one_tailed_test$p.value)
 )
 
