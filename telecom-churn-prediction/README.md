@@ -6,7 +6,7 @@ I am Jasper Sylvestre, an NCSU alumni with a B.S. in Statistics and a Minor in M
 
 ## Project: Telecom Churn Prediction
 
-This Jupyter notebook presents a comprehensive approach to predicting customer churn in the telecom industry using machine learning techniques. Key steps include data import and initial inspection, data cleaning, data preprocessing, model training with cross-validation, evaluation on testing data, and discussion on further model improvement strategies.
+Examine the notebook online for full feature access on [nbviewer](https://nbviewer.org/github/JasperSylvestre/data-science-portfolio/blob/main/telecom-churn-prediction/notebooks/telecom-churn-prediction-notebook.ipynb). This Jupyter notebook presents a comprehensive approach to predicting customer churn in the telecom industry using machine learning techniques. Key steps include data import and initial inspection, data cleaning, data preprocessing, model training with cross-validation, evaluation on testing data, and discussion on further model improvement strategies. 
 
 ## Files and Folders
 
