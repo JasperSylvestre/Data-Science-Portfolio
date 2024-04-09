@@ -1,0 +1,12 @@
+Acknowledgements and Credits
+
+Contributors:
+- Jasper Sylvestre: Sole contributor to notebook.
+
+Resources:
+- NumPy and Pandas: These are useful libraries for dealing with arrays and dataframes respectively.
+- Matplotlib and Seaborn: These are useful libraries for plotting.
+- scikit-learn: A very useful library for model selection, evaluating machine learning models and splitting the data.
+- SciPy: This was a useful library for calculating zscores easily across all numeric values in a dataframe.
+- xgboost: This was a paramount library as this was the focused model for this classification problem.
+- Kaggle: Datasets provided by Baligh Mnassri.
