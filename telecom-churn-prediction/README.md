@@ -14,3 +14,5 @@ This Jupyter notebook presents a comprehensive approach to predicting customer c
 * `notebooks/`: The Jupyter notebook going over data inspection, data preprocessing, model training, evaluation, future model recommendations, and conclusions.
 * `images/`: Saved plots formed in the notebook, such as the ROC curve of the chosen XGBoost classification model performed on the testing dataset.
 * `README.md`: This file.
+* `acknowledgements.txt`: Contains acknowledgements for contributors, dataset providers, and important libraries.
+* `requirements.txt`: Lists required Python packages and versions for running the code. Used for managing dependencies.
