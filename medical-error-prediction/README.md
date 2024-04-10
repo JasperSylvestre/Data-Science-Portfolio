@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am Jasper Sylvestre, an NCSU alumni with a B.S. in Statistics and a Minor in Mathematics, an aspiring data scientist, and current software developer working with training LLMs. I am passionate about machine learning, deep learning, and AI with regards to data science. I hope to enter graduate school with a focus on data science, applied statistics, and machine learning in the coming semester or maybe next year. This repository showcases a project with analysis related to data science.
+I am Jasper Sylvestre, a North Carolina State University (NCSU) alumni (graduated Winter 2023) with a B.S. in Statistics and a Minor in Mathematics, an aspiring data scientist, and current software developer working with training LLMs. I am passionate about machine learning, deep learning, and AI with regards to data science. I hope to enter graduate school with a focus on data science, applied statistics, and machine learning in the coming Fall semester. This repository showcases a project with analysis related to data science described below.
 
 ## Project: Medical Error Prediction
 
-This project aims to predict broad categories of medical errors using machine learning techniques, specifically employing Random Forest classification and Latent Semantic Analysis (LSA). It is a refinement of a project previously conducted at North Carolina State University (NCSU) for ST 495 instructed by Srijan Sengupta during the Fall of 2023. The original project was a collaborative effort with team members: myself, Laylani Callaway, Casey Devine, Tyler March, and Lucy Liu.
+This project aims to predict broad categories of medical errors using machine learning techniques, specifically employing Random Forest classification and Latent Semantic Analysis (LSA). It is a refinement of a project previously conducted at NCSU for ST 495 instructed by Srijan Sengupta during the Fall of 2023. The original project was a collaborative effort with team members: myself, Laylani Callaway, Casey Devine, Tyler March, and Lucy Liu.
 
 The final result shows that the optimal random forest model has a classification error rate between 5.7% and 7.8% with 95% confidence, and the model using LSA data performed statistically significantly worse than the model not using LSA data.
 
@@ -17,8 +17,8 @@ The data used in this project is confidential and cannot be shared. The data fol
 ## Files and Folders
 
 * `data/`: Contains the CSV file with column names.
-* `scripts/`: The R script for data preprocessing, model training, and evaluation.
 * `results/`: Saved results of the models.
+* `scripts/`: The R script for data preprocessing, model training, and evaluation.
 * `README.md`: This file.
 
 ## Special Thanks
