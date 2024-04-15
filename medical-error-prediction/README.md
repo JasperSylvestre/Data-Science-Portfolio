@@ -8,7 +8,7 @@ I am Jasper Sylvestre, a North Carolina State University (NCSU) alumni (graduate
 
 This project aims to predict broad categories of medical errors using machine learning techniques, specifically employing Random Forest classification and Latent Semantic Analysis (LSA). It is a refinement of a project previously conducted at NCSU for ST 495 instructed by Srijan Sengupta during the Fall of 2023. The original project was a collaborative effort with team members: myself, Laylani Callaway, Casey Devine, Tyler March, and Lucy Liu.
 
-The final result shows that the optimal random forest model has a classification error rate between 5.7% and 7.8% with 95% confidence, and the model using LSA data performed statistically significantly worse than the model not using LSA data.
+The final result shows that the optimal random forest model has a classification error rate between 5.7% and 9.0% with 95% confidence, and the model using LSA data performed statistically significantly worse than the model not using LSA data.
 
 ## Data Confidentiality
 
