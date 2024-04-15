@@ -8,7 +8,7 @@ I am Jasper Sylvestre, an NCSU alumni with a B.S. in Statistics and a Minor in M
 
 The notebook can be examined online for full feature access on [nbviewer](https://nbviewer.org/github/JasperSylvestre/data-science-portfolio/blob/main/road-accidents-eda/notebooks/road-accident-eda-notebook.ipynb).
 
-This Jupyter notebook explores road accident data through exploratory data analysis (EDA) and data cleaning. This data set can be found [here](https://www.kaggle.com/datasets/farshidbahrami021/road-accident-dataset) and is in the data folder. For detailed insights through EDA, refer to the notebooks folder. For visualizations, refer to the image folder. This analysis demonstrates the importance of data preproccessing, explorary data analysis, and thoughtful model approaches in extracting insights from complex data sets. Further research, model exploration, and analysis could lead to valuable insights about this data, potentially for reducing road accident death, improving road safety measures, and improving road design
+This Jupyter notebook explores road accident data through exploratory data analysis (EDA) and data cleaning. This data set can be found on [Kaggle](https://www.kaggle.com/datasets/farshidbahrami021/road-accident-dataset). This analysis demonstrates the importance of data preproccessing, explorary data analysis, and thoughtful model approaches in extracting insights from complex data sets. Further research, model exploration, and analysis could lead to valuable insights about this data, potentially for reducing road accident death, improving road safety measures, and improving road design
 
 Note that this data was randomly generated and is purely for learning purposes, but we will treat it here as a real-world data set.
 
