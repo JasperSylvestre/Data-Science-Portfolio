@@ -8,7 +8,7 @@ I am Jasper Sylvestre, a North Carolina State University (NCSU) alumni (graduate
 
 The notebook can be examined online for full feature access on [nbviewer](https://nbviewer.org/github/JasperSylvestre/data-science-portfolio/blob/main/telecom-churn-prediction/notebooks/telecom-churn-prediction-notebook.ipynb).
 
-This Jupyter notebook explores customer churn prediction with XGBoost utilizing telecom data provided by Kaggle. It goes you through a meticulous data preparation pipeline, addressing cleaning, preprocessing, and feature engineering. The notebook then dives into training and optimizing an XGBoost model with techniques like randomized search and stratified sampling to handle class imbalance. The resulting model achieves a promising AUC of 0.91 on unseen data, but the notebook goes further by discussing strategies for ongoing modeling improvement, making it a valuable resource for anyone building churn prediction models in the telecom industry.
+This Jupyter notebook explores customer churn prediction with XGBoost utilizing telecom data provided by [Kaggle](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets). It goes you through a meticulous data preparation pipeline, addressing cleaning, preprocessing, and feature engineering. The notebook then dives into training and optimizing an XGBoost model with techniques like randomized search and stratified sampling to handle class imbalance. The resulting model achieves a promising AUC of 0.91 on unseen data, but the notebook goes further by discussing strategies for ongoing modeling improvement, making it a valuable resource for anyone building churn prediction models in the telecom industry.
 
 ## Files and Folders
 
