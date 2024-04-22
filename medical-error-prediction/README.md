@@ -2,13 +2,11 @@
 
 ## About Me
 
-I am Jasper Sylvestre, a North Carolina State University (NCSU) alumni (graduated Winter 2023) with a B.S. in Statistics and a Minor in Mathematics, an aspiring data scientist, and current software developer working with training LLMs. I am passionate about machine learning, deep learning, and AI with regards to data science. I hope to enter graduate school with a focus on data science, applied statistics, and machine learning in the coming Fall semester. This repository showcases a project with analysis related to data science described below.
+I am Jasper Sylvestre, a North Carolina State University alumni who graduated in Winter 2023 with a B.S. in Statistics and a Minor in Mathematics, an aspiring data scientist, and current software developer working with training LLMs. I am passionate about data science and especially machine learning, deep learning, and AI. I wish to enter graduate school focusing on data science, applied statistics, and machine learning in the Fall, 2024 semester. This repository showcases different projects with analysis related to data science.
 
 ## Project: Medical Error Prediction
 
-This project aims to predict broad categories of medical errors using machine learning techniques, specifically employing Random Forest classification and Latent Semantic Analysis (LSA). It is a refinement of a project previously conducted at NCSU for ST 495 instructed by Srijan Sengupta during the Fall of 2023. The original project was a collaborative effort with team members: myself, Laylani Callaway, Casey Devine, Tyler March, and Lucy Liu.
-
-The final result shows that the optimal random forest model has a classification error rate between 5.7% and 9.0% with 95% confidence, and the model using LSA data performed statistically significantly worse than the model not using LSA data.
+This project aims to predict broad categories of medical errors using machine learning techniques, specifically employing Random Forest classification and Latent Semantic Analysis (LSA). It is a refinement of a project previously conducted at North Carolina State University for ST 495 instructed by Srijan Sengupta during the Fall of 2023. The original project was a collaborative effort with team members: myself, Laylani Callaway, Casey Devine, Tyler March, and Lucy Liu. The final result shows that the Random Forest model has a classification error rate between 5.7 and 9.0% with 95% confidence, and the model using LSA data performed statistically significantly worse than the model not using LSA data.
 
 ## Data Confidentiality
 
