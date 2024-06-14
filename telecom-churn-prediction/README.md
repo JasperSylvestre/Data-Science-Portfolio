@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am Jasper Sylvestre, a North Carolina State University alumni who graduated in Winter 2023 with a B.S. in Statistics and a Minor in Mathematics, an aspiring data scientist, and current software developer working with training LLMs. I am passionate about data science and especially machine learning, deep learning, and AI. I wish to enter graduate school focusing on data science, applied statistics, and machine learning in the Fall, 2024 semester. This repository showcases a project with analysis related to data science described below.
+Hi, I’m Jasper Sylvestre, a graduate student pursuing a Master of Applied Data Science (MADS) at UNC Chapel Hill. I completed my undergraduate studies at North Carolina State University, where I earned a B.S. in Statistics and a Minor in Mathematics. As an aspiring data scientist, I’m currently working as a software developer, focusing on training large language models (LLMs). My passion lies in data science, particularly machine learning, deep learning, and artificial intelligence.
+
+Looking ahead, I plan to graduate in December 2025 from the MADS program, with a keen interest in data science, applied statistics, and machine learning. This repository showcases a project with analysis related to data science described below.
 
 ## Project: Telecom Churn Prediction
 
